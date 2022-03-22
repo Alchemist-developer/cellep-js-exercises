@@ -1,6 +1,6 @@
 // // 1 Armazene seu nome em uma variável, depois faça a concatenação com a string  'Olá'  para escrever no console 'Olá SEUNOME'
 
-var nome = 'Adryel'
+var nome = 'Adryel Simon'
 console.log(`Olá ${nome}`)
 
 // // 2 Crie um programa que calcule a média dos valores:
